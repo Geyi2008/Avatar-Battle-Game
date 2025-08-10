@@ -6,7 +6,7 @@
 
 
 一个**纯前端、单文件**的小型对战游戏：两枚**图片头像**在场内弹跳、拾取道具并博弈。  
-本项目是对原始 **[Emoji Battle Game](https://childweii.github.io/Emoji-Battle-Game/)** 的**重写与扩展**。
+本项目是对原始 **[Emoji Battle Game](https://github.com/Childweii/Emoji-Battle-Game)** 的**重写与扩展**。
 
 > 来源：玩法/机制来自 [Emoji 版本](https://childweii.github.io/Emoji-Battle-Game/)
 
@@ -30,7 +30,7 @@
   只展示**胜者**（或**平局**），视觉更干净。
 
 - **玩法等效**  
-  道具机制与 Emoji 版保持一致；完整道具与说明请直接查看 **[Emoji Battle Game](https://childweii.github.io/Emoji-Battle-Game/)**：  
+  道具机制与 Emoji 版保持一致；完整道具与说明请直接查看 **[Emoji Battle Game](https://github.com/Childweii/Emoji-Battle-Game)**：  
 
 ---
 
