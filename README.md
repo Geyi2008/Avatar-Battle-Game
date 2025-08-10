@@ -5,7 +5,7 @@
 **English** | [中文](README_zh-CN.md)
 
 A lightweight, single‑file browser game where two **image avatars** bounce inside an arena, collect power‑ups, and try to knock each other out.  
-This project is a clean, from‑scratch rewrite **derived from and inspired by** the original **[Emoji Battle Game](https://childweii.github.io/Emoji-Battle-Game/)**.
+This project is a clean, from‑scratch rewrite **derived from and inspired by** the original **[Emoji Battle Game](https://github.com/Childweii/Emoji-Battle-Game)**.
 
 > Origin: the idea/mechanics come from the original [Emoji version](https://childweii.github.io/Emoji-Battle-Game/)
 
@@ -29,7 +29,7 @@ This project is a clean, from‑scratch rewrite **derived from and inspired by**
   Only shows the **winner** (or **tie**), cleaner than the original two‑panel layout.
 
 - **Gameplay Parity**  
-  Item mechanics are kept on par with the Emoji version. For the full list and detailed effects, **see the [Emoji Battle Game page](https://childweii.github.io/Emoji-Battle-Game/)**:  
+  Item mechanics are kept on par with the Emoji version. For the full list and detailed effects, **see the [Emoji Battle Game page](https://github.com/Childweii/Emoji-Battle-Game)**:  
   
 ---
 
